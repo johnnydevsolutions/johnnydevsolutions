@@ -6,4 +6,6 @@
 # Exemple of work
 <img src="https://github.com/johnnydevsolutions/README.md/blob/main/20220706_170606.gif?raw=true">
 
+Portfolio: https://johnnydevsolutions.github.io/main-portfolio/
+
 Skills: Angular / VUE JS / REACT / JS / HTML / CSS
