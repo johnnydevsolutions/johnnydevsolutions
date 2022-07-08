@@ -1,7 +1,6 @@
 ### Hi there 👋, my name is Johnny and I'm from Brazil.
-![I am Web Developer focused on Javascript frameworks](https://media-exp2.licdn.com/dms/image/C4D16AQF7DBkLWUH05g/profile-displaybackgroundimage-shrink_200_800/0/1641707266779?e=1662595200&v=beta&t=81ZyqlpiSZYCTciZnYTQ2plrfnwh6Lg3YhSsuGU7oCk)
-#### I'm Web Developer focused on Javascript frameworks: Angular, Vue, React.js🚀
-
+![I am a Web Developer focused on Javascript frameworks](https://media-exp2.licdn.com/dms/image/C4D16AQF7DBkLWUH05g/profile-displaybackgroundimage-shrink_200_800/0/1641707266779?e=1662595200&v=beta&t=81ZyqlpiSZYCTciZnYTQ2plrfnwh6Lg3YhSsuGU7oCk)
+#### I'm a Web Developer focused on Javascript frameworks: Angular, Vue and React.js🚀
 
 # Example of work
 <img src="https://github.com/johnnydevsolutions/johnnydevsolutions/blob/main/20220706_170606.gif?raw=true">
