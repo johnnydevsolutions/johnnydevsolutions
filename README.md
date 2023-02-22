@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Johnny.
+### Hi there 👋, my name is Johnny
 Portfolio: https://www.johnnysolutions.works/
 #### I'm a Web Developer focused on Javascript frameworks: Angular, Vue, and React.js🚀
 
