@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Johnny
 Portfolio: https://www.johnnysolutions.works/
-#### I'm a Web Developer focused on Javascript frameworks: Angular, Vue, and React.js🚀
+#### I'm a Full-Stack Developer with experience in Angular, .NET Core, SQL Server, React.JS🚀
 
 # Example of work
 <img src="https://github.com/johnnydevsolutions/johnnydevsolutions/blob/main/20220706_170606.gif?raw=true">
