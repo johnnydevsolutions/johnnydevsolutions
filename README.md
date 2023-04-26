@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Johnny !
-Portfolio: https://www.johnnysolutions.works/
+johnnydev.solutions@gmail.com
 #### I'm a Full-Stack Developer with experience in Angular, C#, .NET Core, SQL Server, TypeScript🚀
 
 # Example of work
