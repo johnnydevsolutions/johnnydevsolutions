@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Johnny Assunção !
-• johnnydev.solutions@gmail.com
-#### I'm a Full-Stack Developer with experience in Angular, C#, .NET Core, SQL Server, TypeScript🚀
 
+#### I'm a Full-Stack Developer with experience in Angular, C#, .NET Core, SQL Server, TypeScript🚀
+• johnnydev.solutions@gmail.com
 
 # Example of work
 <img src="https://github.com/johnnydevsolutions/johnnydevsolutions/blob/main/20220706_170606.gif?raw=true">
